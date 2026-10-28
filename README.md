@@ -1,6 +1,6 @@
 # Frontier Atlas · Atlas de Fronteras
 
-Juego personal de estrategia territorial para Windows, desarrollado en C# con Unity 6 y Universal Render Pipeline. Autor del proyecto: Jesús Leonardo Martínez Rodrigues.
+Juego personal de estrategia territorial para Windows, desarrollado en C# con Unity 6 y Universal Render Pipeline. Autor del proyecto: Jesús Leonardo Martínez Rodríguez.
 
 ## Experiencia
 
